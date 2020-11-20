@@ -1,2 +1,2 @@
 # kaiser
-repair control system for "kaiser" cooker hood
+control system for "kaiser" cooker hood repair
